@@ -1,4 +1,4 @@
-```sql
+sql
 CREATE TABLE bears (
   id INTEGER PRIMARY KEY,
   name TEXT,
@@ -8,4 +8,3 @@ CREATE TABLE bears (
   temperament TEXT,
   alive BOOLEAN
 );
-```
